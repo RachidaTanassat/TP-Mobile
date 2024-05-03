@@ -23,5 +23,6 @@ To install and run the Chat Bot application, follow these steps:
 
 
 ##Demo
-![WhatsApp Image 2024-05-03 à 23 40 36_e5cb3a50](https://github.com/RachidaTanassat/TP-Mobile/assets/85264433/a6563cb6-e0a7-48d2-a55c-3ea1de2be341)
+![WhatsApp Image 2024-05-04 à 00 08 16_f86fa243](https://github.com/RachidaTanassat/TP-Mobile/assets/85264433/f81c95a6-c328-4096-a658-f9ae6ab80dc4)
+
 
