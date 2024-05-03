@@ -1,7 +1,7 @@
 # Google Books Explorer
 
 ## Description
-Google Books Explorer is a mobile application that allows users to search and view books using the Google Books API (www.googleapis.com/books). The app provides a user-friendly interface to search for books by title, author, or ISBN, displaying detailed information and cover images.
+Google Books Explorer is a mobile application that allows users to search and view books using the Google Books API (www.googleapis.com/books). The app provides a user-friendly interface to search for books by title, author, displaying detailed information and cover images.
 
 ## Features
 - Search for books using the Google Books API.
