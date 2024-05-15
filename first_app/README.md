@@ -1,16 +1,11 @@
-# first_app
+# first_app flutter
 
 A new Flutter project.
 
-## Getting Started
+## Demo
+![appBar](https://github.com/RachidaTanassat/TP-Mobile/assets/85264433/b99b4d10-fc56-46f0-bab5-5b3715984d32)
+![2](https://github.com/RachidaTanassat/TP-Mobile/assets/85264433/36f1afbf-048b-4d1f-bb5e-1b0981d574ed)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
